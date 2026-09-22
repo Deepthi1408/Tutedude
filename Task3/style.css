@@ -1,0 +1,20 @@
+        h1{
+            color:rgb(0,0,190);
+        }
+        .head{
+            
+            color: rgb(0,0,205);
+        }
+        #bglime{
+            background-color: springgreen;
+            font-size: 40px;
+        }
+        p{
+            color: white;
+        }
+        #para{
+            color: green;
+        }
+        body{
+            background-color: chocolate;
+        }
